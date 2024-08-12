@@ -7,7 +7,7 @@ This is a microservice for scheduling jobs. It allows the creation, listing, and
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/albinthomaskk/Digantara_Assessment
     cd scheduler_service
     ```
 
